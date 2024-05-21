@@ -18,6 +18,10 @@ class mahasiswa {
         cout << "id   =" << id << endl; 
         cout << "Nama   =" << nama << endl; 
         cout << "Nilai   =" << nilai << endl; 
-
     }
 };
+
+int main() {
+    mahasiswa mhs(12, "Asroni", 90,5);
+    return 0;
+}
