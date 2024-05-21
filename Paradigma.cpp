@@ -1,4 +1,8 @@
-#inlcude <iostream>
+#include <iostream>
 #include <string>
-using namepace std;
+using namespace std;
+
+#include "jantung.h"
+#include "manusia.h"
+
 
