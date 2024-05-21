@@ -3,7 +3,7 @@
 using namespace std;
 
 class manusia {
-    public:
+public:
     string name;
     jantung varJantung;
 
@@ -15,4 +15,5 @@ class manusia {
         cout << name << "mati\n";
     }
 
-}
+};
+#endif
